@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kurenaido&display=swap');
+
+body{
+
+    font-family: 'Zen Kurenaido', sans-serif;
+
+    background-image: url("https://cdn.pixabay.com/photo/2018/05/13/17/08/notebook-3397135__340.jpg");
+
+    background-size: cover;
+
+    text-align: center;
+
+}
+
+*{
+
+    padding: 0;
+    margin: 0;
+
+}
+
+div{
+
+    background-color: rgb(270,190,190);
+    opacity: 0.7;
+
+    margin: 2% 10%;
+    padding: 50px;
+
+    border-radius: 20px;
+
+}
+
+textarea{
+
+    height: 100px;
+    width: 300px;
+
+    color: rgb(216, 247, 210);
+
+}
+
+#question{
+
+    font-weight: 600;
+
+}
+
+label{
+
+    font-size: 20px;
+
+}
+
+h1{
+
+    font-size: 50px;
+
+    color: rgb(9, 83, 9);
+
+}
